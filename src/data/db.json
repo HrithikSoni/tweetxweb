@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "Kabir Sigh",
+      "password": "password",
+      "email": "kabirsingh@example.com",
+      "posts": [
+        "Hello world! from Kabir Singh",
+        "Another post here from Kabir Singh"
+      ],
+      "following": [1]
+    },
+    {
+      "id": 3,
+      "name": "Rocky Bhai",
+      "password": "password",
+      "email": "rockybhai@example.com",
+      "posts": [
+        "Hello world! from Rocky Bhai",
+        "Another post here from Rocky Bhai"
+      ],
+      "following": [1, 2]
+    }
+  ]
+}
